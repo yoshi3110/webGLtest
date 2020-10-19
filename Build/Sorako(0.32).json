@@ -1,0 +1,16 @@
+{
+"companyName": "Yoshi3110",
+"productName": "がんばれ! ソラコくん",
+"productVersion": "0.32",
+"dataUrl": "Sorako(0.32).data.unityweb",
+"wasmCodeUrl": "Sorako(0.32).wasm.code.unityweb",
+"wasmFrameworkUrl": "Sorako(0.32).wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
